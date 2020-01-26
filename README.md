@@ -121,6 +121,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Unicode](#unicode)
     - [Endianness](#endianness)
     - [Networking](#networking)
+- [Web development specifics](#web-development-specifics)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
 - [Final Review](#final-review)
 - [Coding Question Practice](#coding-question-practice)
@@ -1199,6 +1200,26 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [Java - Sockets - Introduction (video)](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
         - [ ] [Socket Programming (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
 
+</details>
+
+## Web development specifics
+
+<details>
+<summary>Web development specifics</summary>
+TODO
+topics:
+- DOM
+- DNS
+- HTTP
+- Cookies, sessionstorage, localstorage
+- lazyloading
+- how a request is handled by the browser
+- Caching techniques
+- HTML/CSS techniques
+- Vuejs, reactjs and angular specificity
+- Javascript characteristics (JIT compilation, V8, spidermonkey)
+- webpack
+- For more topics, take a look at roadmap.sh with the frontend dev roadmap
 </details>
 
 ## System Design, Scalability, Data Handling
